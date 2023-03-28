@@ -36,6 +36,7 @@ Te podría decir lo que todo el mundo dice acerca del trabajo en equipo, la resp
   - La vida me dio el regalo de poder aprender rápido muchas cosas así como gran capacidad receptiva y de memoria.
   - Tengo un gusto característico por las matemáticas, a parte de que considero que mi nivel esta por encima del promedio.
   - Suelo interesarme mucho por analizar problemas de manera sistemática y darles la mejor solución, esto por supuesto hace que tenga gran gusto por la           lógica de programación, y que mejor que aprender a resolver problemas de una manera más eficiente.
+  - Estudié una carrera profesional en Ingeniería Electromecánica (aunque aún no estoy titulado).
   
 Todas estas cosas son las principales que puedo destacar de mi persona y me encuentro siempre aprendiendo cosas nuevas tanto del lado técnico como de las habilidades blandas, mi sueño es convertirme en un gran desarrollador.
 
