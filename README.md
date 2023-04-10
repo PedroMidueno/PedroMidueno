@@ -34,7 +34,7 @@ Actualmente las tecnologías con las cuales he desarrollado proyectos y me encue
 Te podría decir lo que todo el mundo dice acerca del trabajo en equipo, la responsabilidad, el compromiso y esas cosas, pero para ser sincero esas son habilidades que no solo se necesitan en esta industria, si no que se necesitan en cualquier lugar para poder llegar a ser un profesionista importante y hasta un líder, lo que yo realmente tengo que creo que me diferencía de los demás es lo siguiente:
   - Me encanta estar en constante aprendizaje.
   - La vida me dio el regalo de poder aprender rápido muchas cosas así como gran capacidad receptiva y de memoria.
-  - Tengo un gusto característico por las matemáticas, a parte de que considero que mi nivel esta por encima del promedio.
+  - Tengo un gusto característico por las matemáticas, además considero que mi nivel está por encima del promedio.
   - Suelo interesarme mucho por analizar problemas de manera sistemática y darles la mejor solución, esto por supuesto hace que tenga gran gusto por la           lógica de programación, y que mejor que aprender a resolver problemas de una manera más eficiente.
   - Estudié una carrera profesional en Ingeniería Electromecánica (aunque aún no estoy titulado).
   
