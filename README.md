@@ -11,20 +11,20 @@ Actualmente me encuentro en ***busqueda laboral activa***, por supuesto y como l
 
 ### ¿Qué tecnologías uso? 👨🏽‍💻 
 Actualmente las tecnologías con las cuales he desarrollado proyectos y me encuentro desarrollando son las siguientes:
-  * Por el lado del front-end
+  * **Por el lado del front-end**
     - HTML
     - CSS
     - JavaScript
     - React.js
     - Redux
     
-  * Por el lado del backend
+  * **Por el lado del backend**
     - Node.js
     - Express.js
     - PostgreSQL
     - Sequelize
   
-  * Como herramientas y tecnologías extra
+  * **Como herramientas y tecnologías extra**
     - Git
     - GitHub 😆
     - Consumo de API/REST
