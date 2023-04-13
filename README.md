@@ -38,12 +38,12 @@ Te podría decir lo que todo el mundo dice acerca del trabajo en equipo, la resp
   - ***Suelo interesarme mucho por analizar problemas de manera sistemática y darles la mejor solución, esto por supuesto hace que tenga gran gusto por la           lógica de programación, y que mejor que aprender a resolver problemas de una manera más eficiente.***
   - ***Estudié una carrera profesional en Ingeniería Electromecánica (aunque aún no estoy titulado).***
   
-Todas estas cosas son las principales que puedo destacar de mi persona y me encuentro siempre aprendiendo cosas nuevas tanto del lado técnico como de las habilidades blandas, mi sueño es convertirme en un gran desarrollador.
+Todas estas cosas son las principales que puedo destacar de mi persona y ***me encuentro siempre aprendiendo cosas nuevas tanto del lado técnico como de las habilidades blandas***, mi sueño es convertirme en un gran desarrollador.
 
 ### Get in touch conmigo 😄 
 Si quieres conocer más acerca de mí puedes visitar mis otras redes como LinkedIn, además si te interesa tenerme en tu empresa o proyecto puedes contactarme vía email.
 
-<a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/pedromidueno/"> <img src="https://cdn-icons-png.flaticon.com/16/3536/3536505.png" alt="LinkedIn" /> <strong>Pedro Midueño en LinkedIn</strong> </a> 
+<a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/pedromidueno/"> <img src="https://cdn-icons-png.flaticon.com/16/3536/3536505.png" alt="LinkedIn" /> <strong><i>Pedro Midueño en LinkedIn</i></strong> </a> 
 
-<a target='_blank' rel="noreferrer" href="mailto:pedro.midueno@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/16/732/732200.png" alt="Correo electrónico" /> Envíame un correo</a> 
+<a target='_blank' rel="noreferrer" href="mailto:pedro.midueno@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/16/732/732200.png" alt="Correo electrónico" /> <strong><i>Envíame un correo</i></strong></a> 
     
